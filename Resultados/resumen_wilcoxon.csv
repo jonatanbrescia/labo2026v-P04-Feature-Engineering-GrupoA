@@ -1,0 +1,6 @@
+"experimento","variante","n_semillas","media_maximos","diferencia_mediana_vs_E0","semillas_que_mejoran","p_bilateral","p_mejora","p_caida"
+"E0","Baseline (9100)",10,86.54,,,,,
+"E1","Serie 9200",10,83.52,-2.74,3,0.1055,0.958,0.0527
+"E2","Tendencias (9300)",10,82.77,-2.91,1,0.0273,0.9902,0.0137
+"E3","Medias móviles",10,83.56,-3.57,2,0.0488,0.9814,0.0244
+"E4","Todo junto (9400)",10,80.23,-5.61,1,0.0059,0.999,0.0029
