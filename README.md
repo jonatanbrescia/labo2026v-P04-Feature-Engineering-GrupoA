@@ -1,4 +1,3 @@
-# labo2026v-P04-Feature-Engineering-GrupoA
 # El Caso del Historial Perdido
 
 Experimento de la Maestría en Ciencia de Datos con Inteligencia Artificial de la Universidad Austral. Trabajo de Jonatan y Leonardo.
